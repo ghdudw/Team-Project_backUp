@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\project\\source\\opcua_unreal_client\\ulistviewobject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\project\\intermediate\\build\\win64\\x64\\opcua_unreal_clienteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\work\\project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\opcua_unreal_client\\definitions.opcua_unreal_client.h",
+            "c:\\work\\project\\source\\opcua_unreal_client\\ulistviewobject.h",
+            "c:\\work\\project\\source\\opcua_unreal_client\\mycustomstruct.h",
+            "c:\\work\\project\\intermediate\\build\\win64\\unrealeditor\\inc\\opcua_unreal_client\\uht\\mycustomstruct.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\work\\project\\intermediate\\build\\win64\\unrealeditor\\inc\\opcua_unreal_client\\uht\\ulistviewobject.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

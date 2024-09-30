@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\project\\intermediate\\build\\win64\\unrealeditor\\inc\\opcua_unreal_client\\uht\\mycustomstruct.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\project\\intermediate\\build\\win64\\x64\\opcua_unreal_clienteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\work\\project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\opcua_unreal_client\\definitions.opcua_unreal_client.h",
+            "c:\\work\\project\\source\\opcua_unreal_client\\mycustomstruct.h",
+            "c:\\work\\project\\intermediate\\build\\win64\\unrealeditor\\inc\\opcua_unreal_client\\uht\\mycustomstruct.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
